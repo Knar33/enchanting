@@ -1,0 +1,77 @@
+1,Weapons,Baneful Humans,Ichor,Lifeforce,Quintessence,Corpseflesh
+2,Weapons,Baneful Orks,Numen,Quintessence,Greenleaf,Hoarfrost
+3,Weapons,Baneful Alfar,Nith,Cinder,Blood,Sparkstone
+4,Weapons,Baneful Elves,Ichor,Bile,Heart,Venom_Sac
+5,Weapons,Baneful Dwarves,Numen,Shadowcrest,Eye,Tooth
+6,Weapons,Baneful Mahirm,Nith,Hoarfrost,Darktaint,Heart
+7,Weapons,Baneful Golems,Ichor,Quintessence,Quartz,Bone
+8,Weapons,Baneful Dragons,Numen,Tooth,Shadowcrest,Bone
+9,Weapons,Baneful Undead,Nith,Lifeforce,Horn,Bile
+10,Weapons,Keenness,Numen,Darktaint,Bile,Cinder
+11,General,Strength Bonus,Ichor,Claw,Blood,Stormrune
+12,General,Dexterity Bonus,Numen,Quintessence,Greenleaf,Heart
+13,General,Intelligence Bonus,Nith,Shadowcrest,Venom_sac,Greenleaf
+14,General,Wisdom Bonus,Ichor,Sparkstone,Hoarfrost,Stormrune
+15,General,Quickness Bonus,Numen,Venom_sac,Sparkstone,Horn
+16,General,Vitality Bonus,Nith,Lifeforce,Greenleaf,Darktaint
+17,Apparel,Encumbrance Bonus,Numen,Horn,Quartz,Cinder
+18,Apparel,Health Bonus,Nith,Lifeforce,Horn,Heart
+19,Apparel,Mana Bonus,Ichor,Bile,Darktaint,Claw
+20,Apparel,Stamina Bonus,Numen,Tooth,Claw,Lifeforce
+21,Apparel,Resistance Bonus,Nith,Tooth,Sparkstone,Corpseflesh
+22,Apparel,Stamina Efficiency,Ichor,Venom_sac,Horn,Claw
+23,Mage Staffs,Mana Efficiency,Nith,Claw,Lifeforce,Sparkstone
+24,Apparel,Acid Protection,Nith,Quartz,Bone,Corpseflesh
+25,Apparel,Fire Protection,Ichor,Cinder,Sparkstone,Greenleaf
+26,Apparel,Cold Protection,Numen,Hoarfrost,Blood,Eye
+27,Apparel,Lightning Protection,Nith,Horn,Eye,Stormrune
+28,Apparel,Slashing Protection,Ichor,Quintessence,Bile,Greenleaf
+29,Apparel,Bludgeoning Protection,Numen,Corpseflesh,Blood,Horn
+30,Apparel,Piercing Protection,Nith,Bone,Shadowcrest,Heart
+31,Apparel,Holy Protection,Ichor,Lifeforce,Bone,Tooth
+32,Apparel,Unholy Protection,Numen,Darktaint,Sparkstone,Blood
+33,Apparel,Mental Protection,Nith,Heart,Quintessence,Eye
+34,Apparel,Infliction Protection,Ichor,Corpseflesh,Eye,Tooth
+35,Apparel,Malediction Protection,Numen,Bone,Shadowcrest,Bile
+36,Mage Staffs,Spell Duration,Numen,Corpseflesh,Greenleaf,Lifeforce
+37,Mage Staffs,Spell Success,Nith,Quintessence,Sparkstone,Corpseflesh
+38,Mage Staffs,Casting Time,Ichor,Bone,Sparkstone,Greenleaf
+39,Mage Staffs,Magnitude,Nith,Tooth,Venom_sac,Eye
+40,Apparel,Spell Immunity,Ichor,Claw,Tooth,Cinder
+41,Apparel,Water Breathing,Numen,Eye,Hoarfrost,Stormrune
+42,Transmute,Acid bow,Nith,Quartz,Quintessence,Venom_sac
+43,Transmute,Fire bow,Ichor,Cinder,Darktaint,Bone
+44,Transmute,Ice bow,Numen,Hoarfrost,Horn,Claw
+45,Transmute,Lightning bow,Numen,Stormrune,Sparkstone,Heart
+46,Transmute,Acid Dagger,Numen,Quartz,Corpseflesh,Claw
+47,Transmute,Ice Dagger,Nith,Bile,Hoarfrost,Darktaint
+48,Transmute,Fire Dagger,Ichor,Cinder,Venom_sac,Blood
+49,Transmute,Lightning Dagger,Nith,Lifeforce,Shadowcrest,Stormrune
+50,Transmute,Acid 1h axe,Numen,Bile,Quartz,Heart
+51,Transmute,Fire 1h axe,Nith,Cinder,Lifeforce,Darktaint
+52,Transmute,Ice 1h axe,Ichor,Eye,Shadowcrest,Hoarfrost
+53,Transmute,Lightning 1h axe,Nith,Greenleaf,Stormrune,Bile
+54,Transmute,Acid 1h blunt,Nith,Quartz,Blood,Bone
+55,Transmute,Fire 1h blunt,Ichor,Bone,Cinder,Shadowcrest
+56,Transmute,Ice 1h blunt,Ichor,Corpseflesh,Hoarfrost,Blood
+57,Transmute,Lightning 1h blunt,Numen,Stormrune,Tooth,Horn
+58,Transmute,Acid 1h sword,Numen,Claw,Quartz,Quintessence
+59,Transmute,Fire 1h sword,Nith,Tooth,Bile,Cinder
+60,Transmute,Ice 1h sword,Ichor,Hoarfrost,Eye,Heart
+61,Transmute,Lightning 1h sword,Ichor,Quintessence,Stormrune,Horn
+62,Transmute,Acid 2h sword,Nith,Venom_sac,Darktaint,Quartz
+63,Transmute,Fire 2h sword,Numen,Cinder,Heart,Blood
+64,Transmute,Ice 2h sword,Ichor,Sparkstone,Hoarfrost,Corpseflesh
+65,Transmute,Lightning 2h sword,Numen,Bone,Stormrune,Shadowcrest
+66,Transmute,Acid 2h blunt,Numen,Quartz,Venom_sac,Bone
+67,Transmute,Fire 2h blunt,Nith,Claw,Corpseflesh,Cinder
+68,Transmute,Ice 2h blunt,Ichor,Hoarfrost,Eye,Quintessence
+69,Transmute,Lightning 2h blunt,Numen,Eye,Greenleaf,Stormrune
+70,Transmute,Acid 2h axe,Nith,Bone,Quartz,Darktaint
+71,Transmute,Fire 2h axe,Ichor,Cinder,Bile,Sparkstone
+72,Transmute,Ice 2h axe,Numen,Quintessence,Heart,Hoarfrost
+73,Transmute,Lightning 2h axe,Ichor,Claw,Stormrune,Horn
+74,Transmute,Acid polearm,Nith,Venom_sac,Greenleaf,Blood
+75,Transmute,Fire polearm,Ichor,Claw,Quartz,Venom_sac
+76,Transmute,Ice polearm,Numen,Eye,Darktaint,Hoarfrost
+77,Transmute,Lightning polearm,Numen,Shadowcrest,Stormrune,Sparkstone
